@@ -13,3 +13,7 @@ You can click the Preview link to take a look at your changes.
 <a href="www.linkedin.com/in/marek-polgesek/" rel="nofollow" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinscode" height="30" width="40" style="max-width: 100%;">
 </a>
+
+<a href="mailto:marekpolgo@gmail.com">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinscode" height="30" width="40" style="max-width: 100%;">
+</a>
