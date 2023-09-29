@@ -9,7 +9,7 @@ I want nothing less and nothing more than to make the world a little bit better 
 </a>
 
 <a href="mailto:marekpolgo@gmail.com">
-<img align="center" src="https://i0.wp.com/pinkeyegraphics.co.uk/wp-content/uploads/icon-google-gmail-new-329x329-1.png?fit=329%2C329&ssl=1" alt="martinscode" height="30" width="40" style="max-width: 100%;">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="mailtomarek" height="30" width="40" style="max-width: 100%;">
 </a>
 
 <h2>Languages and Tools:</h2>
